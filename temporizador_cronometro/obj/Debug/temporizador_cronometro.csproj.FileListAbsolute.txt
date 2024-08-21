@@ -1,0 +1,10 @@
+C:\Users\Augusto\source\repos\temporizador_cronometro\bin\Debug\temporizador_cronometro.exe.config
+C:\Users\Augusto\source\repos\temporizador_cronometro\bin\Debug\temporizador_cronometro.exe
+C:\Users\Augusto\source\repos\temporizador_cronometro\bin\Debug\temporizador_cronometro.pdb
+C:\Users\Augusto\source\repos\temporizador_cronometro\obj\Debug\temporizador_cronometro.csproj.AssemblyReference.cache
+C:\Users\Augusto\source\repos\temporizador_cronometro\obj\Debug\temporizador_cronometro.Properties.Resources.resources
+C:\Users\Augusto\source\repos\temporizador_cronometro\obj\Debug\temporizador_cronometro.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\temporizador_cronometro\obj\Debug\temporizador_cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\temporizador_cronometro\obj\Debug\temporizador_cronometro.exe
+C:\Users\Augusto\source\repos\temporizador_cronometro\obj\Debug\temporizador_cronometro.pdb
+C:\Users\Augusto\source\repos\temporizador_cronometro\obj\Debug\temporizador_cronometro.Form1.resources
