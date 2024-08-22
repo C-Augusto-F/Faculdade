@@ -1,0 +1,10 @@
+C:\Users\Augusto\source\repos\timer\bin\Debug\timer.exe.config
+C:\Users\Augusto\source\repos\timer\bin\Debug\timer.exe
+C:\Users\Augusto\source\repos\timer\bin\Debug\timer.pdb
+C:\Users\Augusto\source\repos\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\Augusto\source\repos\timer\obj\Debug\timer.Form1.resources
+C:\Users\Augusto\source\repos\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\Augusto\source\repos\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\timer\obj\Debug\timer.exe
+C:\Users\Augusto\source\repos\timer\obj\Debug\timer.pdb
