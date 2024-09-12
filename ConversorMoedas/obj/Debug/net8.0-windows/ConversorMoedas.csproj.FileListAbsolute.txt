@@ -1,0 +1,6 @@
+C:\Users\Augusto\source\repos\ConversorMoedas\obj\Debug\net8.0-windows\ConversorMoedas.Form1.resources
+C:\Users\Augusto\source\repos\ConversorMoedas\obj\Debug\net8.0-windows\ConversorMoedas.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\ConversorMoedas\obj\Debug\net8.0-windows\ConversorMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\source\repos\ConversorMoedas\obj\Debug\net8.0-windows\ConversorMoedas.AssemblyInfoInputs.cache
+C:\Users\Augusto\source\repos\ConversorMoedas\obj\Debug\net8.0-windows\ConversorMoedas.AssemblyInfo.cs
+C:\Users\Augusto\source\repos\ConversorMoedas\obj\Debug\net8.0-windows\ConversorMoedas.csproj.CoreCompileInputs.cache
