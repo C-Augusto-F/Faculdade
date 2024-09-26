@@ -1,0 +1,16 @@
+C:\Users\Augusto\source\repos\Lista\bin\Debug\net8.0-windows\Lista.exe
+C:\Users\Augusto\source\repos\Lista\bin\Debug\net8.0-windows\Lista.deps.json
+C:\Users\Augusto\source\repos\Lista\bin\Debug\net8.0-windows\Lista.runtimeconfig.json
+C:\Users\Augusto\source\repos\Lista\bin\Debug\net8.0-windows\Lista.dll
+C:\Users\Augusto\source\repos\Lista\bin\Debug\net8.0-windows\Lista.pdb
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.Form1.resources
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.AssemblyInfoInputs.cache
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.AssemblyInfo.cs
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.dll
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\refint\Lista.dll
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.pdb
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\Lista.genruntimeconfig.cache
+C:\Users\Augusto\source\repos\Lista\obj\Debug\net8.0-windows\ref\Lista.dll
