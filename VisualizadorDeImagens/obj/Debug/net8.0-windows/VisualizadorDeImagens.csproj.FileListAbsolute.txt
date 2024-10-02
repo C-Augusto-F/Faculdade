@@ -1,0 +1,16 @@
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.Form1.resources
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.AssemblyInfoInputs.cache
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.AssemblyInfo.cs
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\bin\Debug\net8.0-windows\VisualizadorDeImagens.exe
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\bin\Debug\net8.0-windows\VisualizadorDeImagens.deps.json
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\bin\Debug\net8.0-windows\VisualizadorDeImagens.runtimeconfig.json
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\bin\Debug\net8.0-windows\VisualizadorDeImagens.dll
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\bin\Debug\net8.0-windows\VisualizadorDeImagens.pdb
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.dll
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\refint\VisualizadorDeImagens.dll
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.pdb
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\VisualizadorDeImagens.genruntimeconfig.cache
+C:\Users\Augusto\source\repos\VisualizadorDeImagens\obj\Debug\net8.0-windows\ref\VisualizadorDeImagens.dll
