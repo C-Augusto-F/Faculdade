@@ -1,0 +1,16 @@
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.Form1.resources
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.AssemblyInfo.cs
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.exe
+C:\Users\Augusto\source\repos\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.deps.json
+C:\Users\Augusto\source\repos\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.runtimeconfig.json
+C:\Users\Augusto\source\repos\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.dll
+C:\Users\Augusto\source\repos\JogoDaVelha\bin\Debug\net8.0-windows\JogoDaVelha.pdb
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.dll
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\refint\JogoDaVelha.dll
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.pdb
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\JogoDaVelha.genruntimeconfig.cache
+C:\Users\Augusto\source\repos\JogoDaVelha\obj\Debug\net8.0-windows\ref\JogoDaVelha.dll
