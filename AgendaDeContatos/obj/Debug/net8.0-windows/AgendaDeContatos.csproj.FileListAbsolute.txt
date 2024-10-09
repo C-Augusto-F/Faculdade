@@ -1,0 +1,16 @@
+C:\Users\Augusto\source\repos\AgendaDeContatos\bin\Debug\net8.0-windows\AgendaDeContatos.exe
+C:\Users\Augusto\source\repos\AgendaDeContatos\bin\Debug\net8.0-windows\AgendaDeContatos.deps.json
+C:\Users\Augusto\source\repos\AgendaDeContatos\bin\Debug\net8.0-windows\AgendaDeContatos.runtimeconfig.json
+C:\Users\Augusto\source\repos\AgendaDeContatos\bin\Debug\net8.0-windows\AgendaDeContatos.dll
+C:\Users\Augusto\source\repos\AgendaDeContatos\bin\Debug\net8.0-windows\AgendaDeContatos.pdb
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.Form1.resources
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.AssemblyInfoInputs.cache
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.AssemblyInfo.cs
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.dll
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\refint\AgendaDeContatos.dll
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.pdb
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\AgendaDeContatos.genruntimeconfig.cache
+C:\Users\Augusto\source\repos\AgendaDeContatos\obj\Debug\net8.0-windows\ref\AgendaDeContatos.dll
