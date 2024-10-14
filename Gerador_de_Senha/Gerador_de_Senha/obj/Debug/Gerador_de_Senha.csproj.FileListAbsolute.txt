@@ -1,0 +1,10 @@
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\obj\Debug\Gerador_de_Senha.csproj.AssemblyReference.cache
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\obj\Debug\Gerador_de_Senha.Properties.Resources.resources
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\obj\Debug\Gerador_de_Senha.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\obj\Debug\Gerador_de_Senha.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\obj\Debug\Gerador_de_Senha.Form1.resources
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\bin\Debug\Gerador_de_Senha.exe.config
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\bin\Debug\Gerador_de_Senha.exe
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\bin\Debug\Gerador_de_Senha.pdb
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\obj\Debug\Gerador_de_Senha.exe
+C:\Users\Augusto\source\repos\Gerador_de_Senha\Gerador_de_Senha\obj\Debug\Gerador_de_Senha.pdb
